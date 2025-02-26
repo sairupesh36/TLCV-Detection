@@ -1,6 +1,6 @@
 # Traffic Sign Detection using YOLOv8
 
-![img](img.png)
+![img](img.gif)
 
 
 ## Overview
